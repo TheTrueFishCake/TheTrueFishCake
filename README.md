@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheTrueFishCake
+- 🌱 I’m currently learning C# and HTML
+- 📫 How to reach me: I have an email.  fishcake2000.yt@gmail.com
+- ⚡ Fun fact: I have a youtube channel!  https://www.youtube.com/@thetruefishcake
